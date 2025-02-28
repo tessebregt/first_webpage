@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 	color: #202030;
 	background-color: #f8f8fc;
 }
@@ -14,15 +14,19 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color:lightpink; 
 }
 
 .resume-main {
 	background-color: #fffefc;
 }
 
+.customcssclass{
+	color:lightgoldenrodyellow;
+}
+
 .resume-aside {
-	background-color: #fff0e0;
+	background-color:lightgoldenrodyellow; 
 }
 
 /* Styles for lists in the document */
@@ -36,7 +40,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color:lightpink;
 }
 
 .biography-details li, .skill-list li {

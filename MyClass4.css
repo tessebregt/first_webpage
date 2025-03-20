@@ -1,0 +1,33 @@
+@charset "UTF-8";
+.mybox {
+    width: 120px;
+    height: 120px;
+    background-color: #F8CCFE;
+    margin-top: 48px;
+    margin-right: 48px;
+    margin-bottom: 48px;
+    margin-left: 48px;
+    padding-top: 16px;
+    padding-right: 26px;
+    padding-left: 8px;
+    padding-bottom: 0px;
+}
+.mybox2 {
+    width: 120px;
+    height: 120px;
+    background-color: #0032D0;
+}
+
+.barrio-regular {
+  font-family: "Barrio", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.colortessa {background-color: lightyellow}
+.colortessb {background-color: lightskyblue}
+.colortessc {background-color:lightsalmon}
+.colortessd {background-color:lightgreen}
+
+.container-fluid {background-color: hotpink}
